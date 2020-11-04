@@ -6,7 +6,7 @@
 
 
 
-Simple pytorch jupyter notebook implementations of ["Generative Adversarial Nets"] (https://arxiv.org/abs/1406.2661)
+Simple pytorch jupyter notebook implementations of Generative Adversarial Nets (https://arxiv.org/abs/1406.2661)
 
 
 
